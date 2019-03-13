@@ -169,7 +169,7 @@
         android:icon="@drawable/ic_settings_cogs"
         android:key="top_level_crdroid"
         android:order="9"
-        android:title="@string/crdroid_settings_title"
+        android:title="@string/floko_settings_title"
         android:summary="@string/crdroid_settings_summary"
         settings:controller="com.crdroid.settings.TopLevelSettingsPreferenceController"/>
 
