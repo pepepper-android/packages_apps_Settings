@@ -90,7 +90,6 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "SystemUISharedLib",
         "glide",
-        "faceunlock_framework",
         "SettingsGoogle-lib",
     ],
     manifest: "AndroidManifest.xml",
